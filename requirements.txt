@@ -1,0 +1,12 @@
+allennlp==2.10.1
+gensim==4.3.2
+h5py==3.11.0
+nltk==3.8.1
+numpy==1.26.4
+pandas==2.2.2
+pycocoevalcap==1.2
+tensorboardX==2.6.2.2
+tensorboardX==2.6.2.2
+torch==1.12.1
+torchvision==0.13.1
+tqdm==4.66.2
